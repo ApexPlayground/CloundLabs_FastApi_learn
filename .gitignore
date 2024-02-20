@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # firebase auth
-static/firebase-login.js
+# static/firebase-login.js
 
